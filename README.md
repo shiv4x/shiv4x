@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiv Raj</h1>
 <h3 align="center">A Software Engineer from India</h3>
-<img align="right" alt="Coding" width="500" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 - 🌱 I’m currently learning **Java, DSA, NLP**
